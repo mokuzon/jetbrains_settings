@@ -3,6 +3,8 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
@@ -10,6 +12,20 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift meta t" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl meta tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta tab" />
   </action>
   <action id="TestData.Navigate">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
