@@ -6,6 +6,21 @@
   <action id="Rails.SwitchToModel">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="org.jetbrains.plugins.ruby.rails.actions.navigation.SwitchToController">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
