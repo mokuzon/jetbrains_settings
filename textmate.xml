@@ -1,0 +1,10 @@
+<application>
+  <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="Darcula" value="Monokai" />
+        <entry key="Default" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>
