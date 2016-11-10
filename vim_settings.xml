@@ -6,6 +6,8 @@
       <file name="$USER_HOME$/Develop/AIST/zukosha_client/config/puma.rb" timestamp="1478754207461">
         <mark key="[" line="37" column="67" />
       </file>
+      <file name="$USER_HOME$/Develop/AIST/zukosha_client/spec/controllers/alerts_controller_spec.rb" timestamp="1478760861137" />
+      <file name="$USER_HOME$/Develop/AIST/zukosha_client/app/controllers/learning_parameters_controller.rb" timestamp="1478760595891" />
     </filemarks>
     <jumps />
     <registers />
